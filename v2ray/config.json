@@ -1,12 +1,12 @@
 {
   "inbounds": [{
     "port": 10000,
-    "listen": "127.0.0.1",
+    "listen": "localhost",
     "protocol": "vmess",
     "settings": {
       "clients": [
         {
-          "id": "dwqdqt5$%@RF#EqdsxasD!#@E@TR%Y^y76",
+          "id": "9mjfr3f5g23ad6b10-8d1a-40f7-8ad0-e3e35cd38297",
           "alterId": 64
         }
       ]
@@ -14,7 +14,7 @@
     "streamSettings": {
       "network": "ws",
       "wsSettings": {
-        "path": "/abcde"
+        "path": "/images/icon.pngjpg"
       }
     }
   }],
